@@ -3548,3 +3548,131 @@ footer {
 .card {
     border: none!important;
 }
+// Католог достопримечательностей и экскурсий
+.cities-list.CatalogSightTour {
+    margin-top: 630px;
+    display: flex;
+    flex-direction: column;
+    height: 320px;
+    .city {
+        &:nth-child(3) {
+            a {
+                &::after {
+                    border-radius: 0px 0px 0px 0px;
+                }
+                img {
+                    border-radius: 0px;
+                }
+            }
+        }
+        &:nth-child(2) {
+            a {
+                &::after {
+                    border-radius: 0px 0px 0px 8px;
+                }
+                img {
+                    border-radius: 0px 0px 0px 8px;
+                }
+            }
+        }
+        &:nth-child(7) {
+            a {
+                &::after {
+                    border-radius: 0px 8px 0px 0px;
+                }
+                img {
+                    border-radius: 0px 8px 0px 0px;
+                }
+            }
+        }
+        &:nth-child(8) {
+            a {
+                &::after {
+                    border-radius: 0px 0px 8px 0px;
+                }
+                img {
+                    border-radius: 0px 0px 8px 0px;
+                }
+            }
+        }
+        width: 233px;
+        height: 160px;
+        a {
+            width: 233px;
+        }
+        img {
+            max-width: 233px;
+            width: 100%;
+            height: 160px;
+        }
+    }
+}
+.filter-city {
+    max-width: 865px;
+    margin: 0 auto;
+    h2 {
+        display: block;
+        text-align: center;
+    }
+    .i-adress {
+        font-size: 22px;
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+    }
+    ul {
+        column-count: 8;
+        column-width: 100px;
+        list-style: none;
+        padding-left: 0;
+        li {
+            a {
+                position: relative;
+                font-size: 12px;
+                color: #383847;
+                text-decoration: none;
+                &:hover::before {
+                    content: ".";
+                    width: 20px;
+                    left: -21px;
+                    position: absolute;
+                    background: url(../images/SVG/adress.svg) no-repeat;
+                    color: #fff;
+                }
+                &:hover {
+                    border-bottom: 2px solid #c6332e;
+                    padding-bottom: 1px;
+                    &::before {
+                        content: ".";
+                        width: 20px;
+                        left: -21px;
+                        position: absolute;
+                        background: url(../images/SVG/adress.svg) no-repeat;
+                        color: #fff;
+                    }
+                }
+            }
+        }
+    }
+    .btn-filter {
+        position: relative;
+        border-style: none;
+        width: 143px;
+        height: 53px;
+        background-color: #1d1c31;
+        font-size: 14px;
+        margin-top: 59px;
+        border-radius: 27px;
+        border: 3px solid #ecbd1c;
+        color: #ecbd1c;
+        &::before {
+            content: ".";
+            width: 20px;
+            left: -21px;
+            position: absolute;
+            background: url(../images/SVG/adress.svg) no-repeat;
+            color: #fff;
+        }
+    }
+}
+// Католог достопримечательностей и экскурсий
