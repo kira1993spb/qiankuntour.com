@@ -2114,6 +2114,53 @@
     }
 }
 @media (max-width:414px) {  
+    .logo {
+        height: 82px;
+        margin-left: 0px;
+        width: 42px;
+    }
+    .logo img:nth-child(2) {
+        margin-left: 0px;
+    }
+    .contactwithus .contactwithus__buttons {
+        position: absolute;
+        right: 0px;
+    }
+    .contactwithus .contactwithus__buttons button:nth-of-type(2){
+        display: none;
+    }
+    .contactwithus .contactwithus__buttons .contactwithus__basket span{
+        display:none;
+    }
+    .contactwithus .contacts{
+        display:none;
+    }
+    .contactwithus .contactwithus__buttons span{
+        display: none;
+    }
+    .contactwithus .contactwithus__buttons button:first-child{
+        background: transparent;
+        width:25px;
+    }
+    .contactwithus .contactwithus__buttons button:first-child .i-user {
+        left: 0px;
+    }
+    .contactwithus .contactwithus__buttons {
+        width: 110px;
+        right:120px;
+        top: 18px;
+    }
+    .contactwithus .contactwithus__buttons button{
+        position: static!important;
+
+    }
+    .contactwithus .contactwithus__buttons .contactwithus__basket {
+        background-size: 20px 18px;
+        background-position: 8px 0px;
+        width: 36px;
+        padding: 0px!important;
+        height: 21px;
+    }
     .description-city {
         margin-top: 481px;
         max-width: 320px;
@@ -2290,6 +2337,49 @@
     }
 }
 @media (max-width:414px) {
+    .city-categories {
+        width: 100%;
+        max-width: 280px;
+        margin: 0 auto;
+        margin-top: 541px;
+    }
+    .city-categories .city-categories__category {
+        height: 88px;
+        border-radius: 8px;
+        border: 2px solid #ecbd1c;
+        background-color: #ffffff;
+        opacity: 0.8;
+        margin-top: 5px;
+        width: 100%;
+        max-width: 89px; 
+    }
+    .city-categories .city-categories__categories{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .city-categories .city-categories__category img:first-child {
+        width: 100%;
+        max-width: 80px;
+        margin: 0px;
+        margin-bottom: 13px;
+        max-width: 80px;
+        width: 100%;
+        margin-top: 10px;
+        height: 34px;    
+    }
+    .city-categories .city-categories__category:not(:first-child){
+        margin-left: 5px;
+    }
+    .city-categories p{
+        font-size:12px;
+    }
+    .main-slider .slider-block p:nth-of-type(2) {
+        position: relative;
+        top: 38px;
+    }
+    .search-menu input {
+        margin-top: 58px;
+    }
     .pagination {
         max-width: 220px;
         margin: 0 auto;
@@ -2306,6 +2396,7 @@
     .tourscatalog.footer .appform {
         margin-top: 117px;
     }
+
 }
 @media (max-width:320px) {
     .tourscatalog.best-tours {
