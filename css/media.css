@@ -1120,11 +1120,6 @@
         margin-top: 96px;
     }
 
-    .cities-list .city:nth-child(5) p:first-of-type {
-        font-size: 16px;
-        margin-top: 26px;
-    }
-
     .cities-list .city:nth-child(5) button {
         margin-top: 18px;
     }
@@ -1508,7 +1503,6 @@
     }
 
     .hot-tours {
-        height: 1209px !important;
         margin-bottom: 0px;
         padding-top: 85px;
         width: 100%;
@@ -3624,3 +3618,121 @@
 }
 
 /* Страница Tour */
+
+/* Католог достопримечательностей и экскурсий */
+@media(max-width:1200px) {
+    .cities-list.CatalogSightTour .city img {
+        max-width: 190px;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(4) a img {
+        border-radius: 0px 8px 0px 0px;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(2) a img {
+        border-radius: 0 0 0 0;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(2) a::after {
+        border-radius: 0 0 0 0;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(4) a::after {
+        border-radius: 0 8px 0 0;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(5) a img {
+        border-radius: 0px 0px 0px 8px;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(5) a::after {
+        border-radius: 0 0 0 8px;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(7) a img {
+        border-radius: 0 0 0 0;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(7) a::after {
+        border-radius: 0 0 0 0;
+    }
+    .cities-list.CatalogSightTour .city {
+        max-width: 190px;
+    }
+    .cities-list.CatalogSightTour {
+        width: 86%;
+        flex-direction: row;
+        height: auto;
+    }
+}
+@media(max-width:768px) {
+    .cities-list.CatalogSightTour {
+        height: auto;
+        width: 56%;
+        margin-top: 465px;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(2) a img {
+        border-radius: 0 8px 0 0;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(2) a::after {
+        border-radius: 0 8px 0 0;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(4) a::after {
+        border-radius: 0 0 0 0;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(4) a img {
+        border-radius: 0 0 0 0;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(5) a img {
+        border-radius: 0px 0px 0px 0px;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(5) a::after {
+        border-radius: 0 0 0 0px;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(7) a img {
+        border-radius: 0 0 0 8px;
+    }
+    .cities-list.CatalogSightTour .city:nth-child(7) a::after {
+        border-radius: 0 0 0 8px;
+    }
+    .cities-list .city:hover a::after {
+        content: "";
+        position: absolute;
+        opacity: 1;
+        background: #c6332e;
+        height: 160px;
+        width: 100%;
+        z-index: 2;
+        top: -70px;
+        width: 190px;
+    }
+    .hot-tours.cards.CatalogSightTour {
+        height: auto;
+    }
+}
+@media(max-width:576px) {
+    .cities-list .city:hover a::after {
+        content: "";
+        position: absolute;
+        opacity: 1;
+        background: #c6332e;
+        height: 160px;
+        width: 100%;
+        z-index: 2;
+        top: -160px;
+        width: 140px;
+    }
+    .cities-list.CatalogSightTour {
+        width: 49%;
+    }
+    .cities-list.CatalogSightTour .city {
+        max-width: 140px;
+        height: 145px;
+    }
+}
+@media(max-width:414px) {
+    .cities-list.CatalogSightTour {
+        width: 75%;
+    }
+    .filter-city {
+        padding: 0 40px;
+    }
+}
+@media(max-width:320px) {
+    .cities-list.CatalogSightTour {
+        width: 88%;
+    }
+}
+/* Католог достопримечательностей и экскурсий */
