@@ -3550,10 +3550,11 @@ footer {
 }
 // Католог достопримечательностей и экскурсий
 .cities-list.CatalogSightTour {
-    margin-top: 630px;
+    margin-top: 560px;
     display: flex;
     flex-direction: column;
     height: 320px;
+    max-width: 884px;
     .city {
         &:nth-child(3) {
             a {
@@ -3595,13 +3596,13 @@ footer {
                 }
             }
         }
-        width: 233px;
+        width: 221px;
         height: 160px;
         a {
-            width: 233px;
+            width: 221px;
         }
         img {
-            max-width: 233px;
+            max-width: 221px;
             width: 100%;
             height: 160px;
         }
@@ -3610,9 +3611,11 @@ footer {
 .filter-city {
     max-width: 865px;
     margin: 0 auto;
+    margin-top: 79px;
     h2 {
         display: block;
         text-align: center;
+        margin-top: 25px;
     }
     .i-adress {
         font-size: 22px;
@@ -3625,6 +3628,7 @@ footer {
         column-width: 100px;
         list-style: none;
         padding-left: 0;
+        margin-top: 41px;
         li {
             a {
                 position: relative;
@@ -3655,24 +3659,33 @@ footer {
         }
     }
     .btn-filter {
-        position: relative;
+        &:hover {
+            background-color: #c6332e;
+            color: #fff;
+        }
+        margin-top: 45px;
+        display: block;
         border-style: none;
         width: 143px;
         height: 53px;
         background-color: #1d1c31;
         font-size: 14px;
-        margin-top: 59px;
+        margin: 0px auto;
+        margin-top: 60px;
         border-radius: 27px;
         border: 3px solid #ecbd1c;
         color: #ecbd1c;
-        &::before {
-            content: ".";
-            width: 20px;
-            left: -21px;
-            position: absolute;
-            background: url(../images/SVG/adress.svg) no-repeat;
+        margin-bottom: 40px;
+        .i-choose {
             color: #fff;
         }
     }
 }
+.hot-tours.cards.CatalogSightTour {
+    margin-top: 0px;
+    .wrapper-block {
+        flex-wrap: wrap;
+    }
+}
+
 // Католог достопримечательностей и экскурсий
