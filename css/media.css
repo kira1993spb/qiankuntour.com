@@ -3736,3 +3736,11 @@
     }
 }
 /* Католог достопримечательностей и экскурсий */
+
+/* Каталог отелей */
+@media(max-width:768px) {
+    .top-hotel.catalog-hotel .hotel-block .tourcard.middle:nth-child(n+17) {
+        display: none;
+    }
+}
+/* Каталог отелей */
