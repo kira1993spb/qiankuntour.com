@@ -1,0 +1,2389 @@
+@media (max-width:1366px) {
+    /*Main начало  */
+    .contactwithus .contacts {
+        left: 74.5%;
+    }
+    .carousel-control-next {
+        left: 79.8%!important;
+        
+    }
+    .carousel-control-prev{
+        background:none!important;
+        left: 74%!important;
+        
+    }
+    .main-slider .slider-block h1{
+        line-height: 82px;
+        font-size: 60px;
+        
+        padding-right: 327px;
+        
+    }
+    .main-menu li:first-child button{
+        font-size: 12px;
+    }
+    .main-menu li a, .main-menu li button{
+        font-size: 12px;
+    }
+    .main-menu li:not(:first-child){
+        margin-top:0px;
+    }
+    .main-slider .slider-block p{
+        padding-right: 384px;
+    }
+    .main-menu li:not(:first-child){
+        margin-left:19px;
+    }
+    .main-slider .slider-block a{
+        margin-top: 39px; 
+    }
+    .breadcrumb.before-slider{
+        margin-top:14px;
+    }
+    .breadcrumb.before-slider.city{
+        margin-top:26px;
+    }
+    .no-slider h1 {
+        padding-right: 330px!important;
+        font-size: 60px!important;
+        line-height: 1.2;
+    }
+    .aboutQiankun.modal-content .close {
+        z-index: 1;
+        position: absolute;
+        top: 13%;
+        right: 19%;
+    }
+    
+    /* Main конец */
+    .main-slider .carousel-item .slider-block{
+        
+    }
+    .city.sight{
+        height: 600px;
+    }
+    .city.sight h1,.city.sight.aboutQiankun h1{
+        padding-top: 160px;
+    }
+    .description-city.sight, .description-city.tour, .description-city.hotel {
+        margin-top: 547px;
+    }
+    .aboutQiankun.info {
+        margin: 0 auto;
+        margin-top: 594px;
+    }
+    .aboutQiankun.info.Qiankunarticle {
+        margin-top: 556px;
+    }
+    .cities-list{
+        width:100%;
+        max-width: 885px;
+    }
+    .cities-list .city{
+        width:100%;
+        max-width: 294px;
+    }
+}
+@media (max-width:1200px) {
+    .logo img:first-child{
+        display: none;
+    }
+    .logo img:nth-child(2){
+        display: block;
+        height:100%;
+
+    }    
+    .main-slider .carousel-item .slider-block{
+        
+    }
+    .main-slider .slider-block img{
+        height: 86%;
+    }
+    .main-slider .slider-block h1{
+        font-size: 51px;
+    }
+    .main-slider .slider-block p{
+        font-size:12px;
+    }
+    .main-slider .slider-block a {
+        margin-top: -6px;
+    }
+    .carousel-control-prev,.carousel-control-next{
+        top: 71%!important;
+    }
+    .hot-tours .tours .tourcard{
+        width: 100%;
+        max-width: 219px;
+    }
+    .hot-tours .tours .tourcard img{
+        width: 100%;
+    }
+    .hot-tours .tours .tourcard h3,.hot-tours .tours .tourcard p{
+        width: 100%;
+        padding-left: 15px;
+    }
+    .cities-list {
+        width: 100%;
+        max-width: 627px;
+    }
+    .cities-list .city {
+        width: 100%;
+        max-width: 209px;
+        height: 160px;
+    }
+    .cities-list .city-5 {
+        width: 100%;
+        max-width: 209px;
+        height: 160px;
+    }
+    .cities-list .city img {
+        width: 100%;
+        
+        height: 160px;
+    }
+}
+@media (max-width:1024px) {
+    .contactwithus .contacts {
+        left: 71.5%;
+    }
+}
+@media (max-width:992px) {
+    .main-slider .slider-block img {
+        height: 79%;
+    }
+    .contactwithus .contacts{
+        top:0px;
+    }
+    .main-slider .slider-block h1{
+        font-size:36px!important;
+    }
+    .main-slider .slider-block p{
+        font-size:12px;
+        max-width: 763px;
+    }
+    .main-slider .slider-block h1 {
+        line-height: 50px;
+        width: 100%;
+        max-width: 760px;
+        padding-right: 327px!important;
+        color: #ffffff;
+        font-size: 36px!important;
+        font-weight: 700;
+        margin: 0 auto;
+        margin-top: 0px;
+        z-index: 1;
+        position: relative;
+    }
+    .carousel-control-prev,.carousel-control-next{
+        top: 57%!important;
+    }
+    .logo{
+        top: 10px;
+    }
+    .logo img:first-child{
+        display: none;
+    }
+    .logo img:nth-child(2){
+        display: block;
+        height:100%;
+
+    }
+    .main-menu{
+        padding-top:0px;
+    }
+    .contactwithus button{
+        width: 38px;
+        height: 32px;
+        border-radius: 16px;
+    }
+    .contactwithus button .i-feedback{
+        top: 2px;
+        left: 2px;
+        font-size:21px;
+    }
+    .contactwithus button span{
+        display:none;
+    }
+     button.close-appform span{
+        display: block;
+    }
+    .hot-tours{
+        
+        margin: 574px auto;
+        margin-bottom: 144px;
+        width: 70%;
+    }
+    .best-tours .tourcard{
+        width: 100%;
+        max-width: 160px;
+    }
+    .best-tours .tourcard img{
+        width:100%;
+    }
+    
+    .best-tours .tourcard .line{
+        width:100%;
+        max-width:160px;
+    }
+    .appform{
+        padding: 0 2%;
+    }
+    .appform .select{
+        margin-left: 7%;
+    }
+    .forminput-set .spans{
+        margin-left: 14%;
+    }
+    .main-menu li:first-child .modal-dialog.modal-sm{
+        width: 100%;
+        max-width: 992px;
+        top: -4%;
+    }
+    .main-menu .modal-content.list-city {
+        width: 100%;
+        right:0%;
+        height: 844px;
+        border-style: none;
+        border-radius: 0px;
+    }
+}
+@media (max-width:768px) {
+    body{
+        /* background:url(../../Qiankun15.09/template/Главная768px.png) no-repeat; */
+    }
+    .logo{
+        left: 8px;
+    }
+    .logo img:nth-child(2){
+        height:74%;
+    }
+    .main-slider .slider-block{
+        padding-top:112px;
+        height:480px;
+    }
+    .main-slider .slider-block img {
+        height: 80%;
+    }
+    .main-slider .slider-block h1{
+        padding-right: 120px!important;
+    }
+    .main-slider .slider-block h1,
+    .main-slider .slider-block p{
+        padding-right: 123px!important;
+        max-width: 599px;
+        padding-left:0px;
+    }
+    .main-slider .slider-block p{
+        padding-right: 200px!important;
+        margin-top: 35px;
+    }
+    .main-slider .slider-block a {
+        margin-top: 3px;
+    }
+    .carousel-control-prev, .carousel-control-next {
+        top: 70.5%!important;
+    }
+    .main-menu{
+        max-width: 680px;
+        margin-top: -3px;
+    }
+    .main-menu li:not(:first-child){
+        margin-left:24px;
+    }
+    .main-menu li:not(:first-child) {
+        margin-top: 5px;
+    }
+    modal-content.list-city ul{
+        margin-left:24px;
+
+    }
+    .modal-content .appform h4 {
+        padding-left: 38px;
+    }
+    .main-menu li a,
+    .main-menu li button{
+        font-size:10px;
+    }
+    .contactwithus .contacts{
+        top:-5px;
+        left:75.5%;
+    }
+    .contactwithus button{
+        top: -4px;
+        left: -9px;
+    }
+    button.close-appform{
+        right: 14px!important;
+        top: 36px!important;
+        left: AUTO;
+    }
+    .carousel-control-prev {
+        left: 72.5%!important;
+    }
+    .carousel-control-next {
+        left: 82.8%!important;
+    }
+    .logotype img {
+        width: 52px;
+        height: 52px;
+        top: 19px;
+        left: 45.5%;
+    }
+    .hot-tours{
+        margin: 442px auto;
+        margin-bottom: 142px;
+        padding-top:94px;
+        width: 79%;
+        height: 513px;
+    }
+    .hot-tours h2 {
+        font-size: 36px;
+    }
+    .tours{
+        margin-top: 46px;
+    }
+    .hot-tours .tours .tourcard img {
+        width: 97%;
+        height: 160px;
+    }
+    .hot-tours .tours .tourcard h3{
+        font-size: 16px;
+        padding-top: 19px;
+    } 
+    .hot-tours .tours .tourcard p{
+        font-size: 10px;
+        padding-top: 8px;
+        
+    }
+    .hot-tours .tours .tourcard h3, 
+    .hot-tours .tours .tourcard p {
+        width: 100%;
+        padding-left: 22px;
+        padding-right: 30px;
+        
+    }
+    .tourcard .line {
+        width: 285px;
+        height: 4px;
+        width: 20px;
+        background-color: #1d1c31;
+        padding-top: 0px;
+        margin-top: -2px;
+        padding: 0px!important;
+        width:100%!important;
+        max-width: 194px;
+    }
+    .hot-tours p:last-of-type a{    
+        margin-top: 34px;
+    }
+    .cities-list{
+        max-width: 610px;
+    }
+    .cities-list .city {
+        height: 110px;
+        max-width: 202px;
+    }
+    .cities-list .city-5 {
+        height: 110px;
+        max-width: 202px;
+    }
+    .cities-list .city a p {
+        top: -27px;
+    }
+    .cities-list .city img {
+        height: 100%;
+    }
+    
+    .cities-list .city-5  p:first-of-type {
+        font-size: 16px;
+        margin-top: 18px;
+    }
+    .cities-list .city-5 p button{
+        margin-top:0px;
+    }
+    .cities-list .city-5 a p:nth-of-type(2) {
+        margin-top: 13px;
+    }
+    .cities-list .city:hover a::after {
+        content: "";
+        position: absolute;
+        opacity: 0.5;
+        background: red;
+        height: 111px;
+        width: 100%;
+        z-index: 2;
+        top: -46px;
+    }
+    .city a p:nth-of-type(2) {
+        margin-top: 60px;
+    }
+    .best-tours h2 {
+        font-size: 36px;
+        padding-bottom: 14px;
+    }
+    .best-tours p{
+        margin: 0 auto;
+        max-width: 600px;
+        font-size: 12px;
+    }
+    .best-tours .tours{
+        max-width: 604px;
+        margin: 0 auto;
+        margin-top:46px;
+    }
+    .best-tours .tours .tourcard{
+        width: 100%;
+        max-width:113px;
+        
+    }
+    .best-tours.aboutQiankun{
+        height:auto;
+    }
+    .best-tours .tours .tourcard a img{
+        height:80px;
+    }
+    .best-tours .tourcard h3 {
+        width: 100%;
+        padding-left: 12px;
+        padding-right: 10px;
+        padding-top: 7px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .best-tours .tourcard p:first-of-type{
+        padding-left: 13px;
+        height: 48px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .best-tours .tourcard .line {
+        margin-top: 10px;
+        height: 5px;
+    }
+    .best-tours .tourcard p:nth-of-type(2) {
+        padding-left: 9px;
+        margin-top: 11px;
+    }
+    .best-tours .tourcard p:nth-of-type(2) button span {
+        border-bottom: 3px solid #c6332e;
+        margin-left: 1px;
+        padding-left: 1px;
+    }
+    .best-tours p:last-of-type a {
+        margin-top: 47px;
+    }
+    .best-tours{
+        height: 576px;
+    }
+    .best-sights.best-tours{
+        height:468px;
+    }
+    .best-sights.best-tours {
+        margin-top: 0px;
+    }
+    .best-activities{
+        margin-top:60px;
+    }
+    footer .appform{
+        margin-top:1px;
+    }
+    footer .appform form{
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        height: 437px;
+        max-width: 610px;
+        margin: 0 auto;
+        margin-top:35px;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    footer .appform form {
+        height: 417px;
+    }
+    footer .appform h2{
+        font-size:36px;
+    }
+    .forminput-set {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        max-width: 262px;
+        height: 240px;
+    }
+    .appform .selectset {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        max-width: 261px;
+        margin-left: 0px;
+        margin-top: -7px;
+    }
+    .appform .buttonset span {
+        margin-left: 38px;
+    }
+    .forminput-set .spans {
+        max-width: 132px;
+    }
+    footer .copyright {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        margin-top:50px;
+    }
+    footer .copyright span:first-child {
+        margin-top: 2px;
+        max-width: 444px;
+    }
+    footer .copyright span:nth-child(2){
+        margin-top: 15px;
+    }
+    .button-feedback {
+        width: 54%;
+        height: 47px;
+        position: absolute;
+        top: 178px;
+        opacity: 0;
+        left: 2px;
+    }
+}
+@media (max-width:720px) {
+    .main-menu li:not(:first-child) {
+        margin-left: 1%;
+    }
+    .contactwithus .contacts {
+        left: 70.5%;
+    }
+    .cities-list {
+        max-width: 564px;
+    }
+    .cities-list .city{
+        max-width: 188px;
+    }
+    .cities-list .city-5{
+        height: 110px;
+        max-width: 188px;
+    }
+    
+    
+}
+@media (max-width:576px) {
+    .modal.fade.bd-example-modal{
+       padding-top: 104px;
+    }
+    .modal.fade.bd-example-modal .modal-content.list-city img{
+        top:70px;
+    }
+    body{
+        /* background:url(../images/ГлавнаяЦЯНЬКУНЬ320px.png) no-repeat;  */
+        background-position-x: center;
+        background-position-y: 0px;
+    }
+    .logo{
+        position: static;
+    }
+    .main-menu{
+        position: absolute;
+        top: -87px;
+    }
+    .main-menu.adaptive{
+        position: static;
+    }
+    
+    .contactwithus .contacts{
+        left: 39.5%;
+    }
+    .contactwithus button {
+        position: static;
+        background:transparent;
+        border-style:none;
+    }
+    .btn-primary:hover,.btn-primary:focus {
+        border-style:none!important;
+        background:transparent!important;
+        box-shadow: none!important;
+    }
+    .main-menu-mobile{
+        display: block;
+    }
+    .main-menu-mobile .main-menu{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+        padding-left: 0px;
+    }
+    .main-menu-mobile .main-menu li a, .main-menu-mobile .main-menu li button{
+        color:#000;
+    }
+    .main-menu-mobile .modal-dialog{
+        width: 100%;
+        max-width: 576px!important;
+    }
+    .main-menu-mobile .modal-dialog .modal-content.mobile-menu{
+        height: 452px;
+    }
+    .main-menu.adaptive li:first-child button{
+        position: static;
+        width: 73px;
+        margin-left: 0px;
+    }
+    .main-menu li{
+        margin-left:0px;
+    }
+    .mobile-menu .logo{
+        position:static;
+        z-index: 50;
+    }
+    .modal-open .logo {
+        z-index: 1;
+    }
+    .main-menu .modal-content.list-city img {
+        top: 70px;
+    } 
+    .main-menu-mobile .modal.show .modal-dialog {
+        top: 0px;
+        left: 0;
+        right: 0;
+        width: 100%;
+        max-width: 576px!important;
+        margin: 0 auto;
+        margin: 0;
+        padding: 0px;
+        border-radius: 0px;
+        border-style: none;
+    }
+    .logo {
+        z-index: 10;
+        margin-left: 15px;
+    }
+    .mobile-menu{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    .mobile-menu{
+        font-family:"Microsoft YaHei", sans-serif;
+    }
+    .mobile-menu li{
+        list-style: none;
+    }
+    .mobile-menu li a{
+        font-family: "Microsoft YaHei", sans-serif;
+        color:#1d1c31;
+    }
+    .mobile-menu .contacts{
+        position: static;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        margin-top: 66px;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .mobile-menu .contacts .spans{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        margin-left: 66px;
+    }
+    .mobile-menu .feedback-form {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        margin-top: 50px;
+    }
+    .mobile-menu .feedback-form button{
+        background: #c6332e;
+        position: static;
+        width: 37%;
+        text-align: center;
+    }
+    .mobile-menu .feedback-form button.i-feedback{
+        position: static;
+    }
+    .main-menu-mobile .close-appform {
+        margin-left: 93%;
+    }
+    .main-menu-mobile .close-appform span{
+        display: block!important;
+        color:#1d1c31;
+       
+    }
+    .main-menu .modal-content.list-city li:first-child {
+        margin-top: 0px;
+        margin-left: 24px;
+    }
+    .main-menu.adaptive li:not(:first-child) {
+        margin-left: 24px;
+        margin-top: 6px;
+    }
+    .cities-list {
+        max-width: 282px;
+    }
+    .cities-list .city {
+        max-width: 93px;
+        height: 148px;
+    }
+    .cities-list .city-5 {
+        max-width: 93px;
+        height: 144px;
+    }
+    .cities-list .city-5 p button {
+        margin-top: 25px;
+    }
+    .cities-list .city a p {
+        top: -131px;
+        width: 68px;
+    }
+    .cities-list .city a img:first-child{
+        display: none;
+    }
+    .cities-list .city a img:nth-child(2){
+        display: block;
+    }
+    .cities-list .city:hover a::after {
+        content: "";
+        position: absolute;
+        opacity: 0.5;
+        background: red;
+        height: 149px;
+        width: 93px;
+        z-index: 2;
+        top: -148px;
+    }
+    .city a p:nth-of-type(2) {
+        margin-top: 96px;
+    }
+    .cities-list .city:nth-child(5) p:first-of-type {
+        font-size: 16px;
+        margin-top: 26px;
+    }
+    .cities-list .city:nth-child(5) button {
+        margin-top: 18px;
+    }
+    .cities-list .city:nth-child(5) p:first-of-type {
+        width: 85px;
+    }
+    .tours{
+        max-width:485px!important;
+
+    }
+    .hot-tours{
+        height:auto;
+    }
+    .best-tours .tours .tourcard:last-child{
+       display: none;
+    }
+    .best-tours p {
+        max-width: 485px;
+    }
+    .contactwithus button .i-feedback {
+        position:static;
+        font-size: 21px;
+    }
+    footer .appform form {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        height: 693px;
+        padding-bottom: 26px;
+        max-width: 522px;
+    }
+    .appform .selectset{
+        margin-left:0px;
+        margin-top: -136px;
+    }
+    .forminput-set{
+        position: relative;
+    }
+    .appform form button{
+        margin-top: 14px;
+    }
+    .forminput-set img {
+        position: absolute;
+        top: 550px;
+    }
+    .forminput-set .spans{    
+        position: absolute;
+        top: 541px;
+        left: 99px;
+    }
+    .modal-open {
+        overflow: hidden;
+        z-index: 10050;
+        position: absolute;
+        /* top: -46px; */
+    }
+    
+    #modal-form{
+        z-index: 10050;
+    }
+    .modal-content.list-city button.close {
+        position: absolute!important;
+        left: 485px;
+        top: 46px;
+    }
+    .modal-content.list-city button.close span{
+        display: block;
+    }
+    .bd-example-modal-city-mob{
+        height:800px;
+    }
+    .feedback-form .modal-content .appform form {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        height: 989px;
+        max-width: 576px;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-top: 41px;
+        padding-bottom:0px;
+    }
+    .feedback-form .modal-content .forminput-set {
+        margin-left: 0px;
+        height: 300px;
+    }
+    .feedback-form .modal-content .appform .selectset{
+        margin-left:0px;
+        max-width: 288px;
+        padding-right:0px;
+    }
+    .feedback-form .modal-content .appform label {
+        width: 91%;
+        margin: 0 auto;
+    }
+    .feedback-form .modal-content .appform .selectset{
+        margin-top: -296px;
+    }
+    .modal-dialog.modal-sm{
+        margin-top: -98px;
+    }
+    .modal-content .appform h4 {
+        color: #c6332e;
+        padding-top: 16px;
+        padding-left: 139px;
+    }
+    .feedback-form .modal-content .appform form input, .appform form select {
+        padding-bottom: 8px;
+    }
+    .forminput-set{
+        position: relative;
+    }
+    .appform form button{
+        margin-top: 14px;
+    }
+    .feedback-form .modal-content .appform .forminput-set img {
+        position: absolute;
+        top: 745px;
+    }
+    .feedback-form .modal-content .appform .selectset .buttonset{ 
+        width: 100%;
+        max-width: 272px;
+        margin: 0 auto;
+    }
+    .feedback-form .modal-content .appform .forminput-set .spans {
+        position: absolute;
+        top: 742px;
+        margin-top: 0px;
+        margin-left: 57px;
+    }
+    .modal-sm {
+        max-width: 576px;
+    }
+    .modal-content.city{
+        right: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+        border-style: none;
+        border-radius: 0px;
+    }
+    
+}
+@media (max-width:441px){
+    body{
+        /* background:url(../../Qiankun15.09/template/Главная320px.png) no-repeat;  */
+        background-position-x: center;
+    }
+    .logotype img {
+        left: 43.5%;
+    }
+    .tours{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .cities-list{
+        margin-top: 200px;
+        max-width: 279px;
+    }
+    .hot-tours{
+        height:1209px!important;
+        margin-bottom:0px;
+        padding-top: 85px;
+        width: 100%;
+    }
+    .best-tours{
+        height:auto!important;
+        max-width: 322px;
+    }
+    .hot-tours p:last-of-type {
+        text-align: center;
+        width: 278px;
+        margin: 0 auto;
+    }
+    .hot-tours p:last-of-type a {
+        width: 100%;
+    }
+    .hot-tours .tours .tourcard img {
+        width: 100%;
+    }
+    .tourcard .line {
+        max-width: 219px;
+    }
+    .tours {
+        max-width: 219px!important;
+        margin: 0 auto;
+    }
+}
+@media (max-width:414px){
+    .main-slider .carousel-item .slider-block {
+        /* background-image: url(../images/414.png)!important; */
+    }
+    .main-slider .slider-block h1, .main-slider .slider-block p{
+        padding-left: 20px;
+        padding-right: 0px!important;
+    }
+    .carousel-control-prev, .carousel-control-next {
+        top: 72.5%!important;
+    }
+    .carousel-control-prev {
+        left: 66.5%!important;
+    }
+    .best-tours .tours {
+        max-width: 266px!important;
+    }
+    .tours{
+        margin-top: 41px;
+    }
+    .hot-tours .tours .tourcard {
+        width: 100%;
+        max-width: 196px;
+        margin: 0 auto;
+    }
+    .hot-tours .tours .tourcard h3, .hot-tours .tours .tourcard p {
+        margin-bottom: 4px;
+    }
+    .hot-tours .tours .tourcard:not(:first-child){
+        margin-top: 26px;
+    }
+    .cities-list {
+        margin-top: 92px;
+        max-width: 279px;
+    }
+    .cities-list .city{
+        height:144px;
+    }
+    .cities-list .city:nth-child(5) p:first-of-type {
+        margin-top: 24px;
+    }
+    .cities-list .city:nth-child(5) p:nth-of-type(2) {
+        padding-left: 0px;
+    }
+    .best-tours p {
+        max-width: 285px;
+        margin-top: 55px;
+    }
+    .best-sights.best-tours p{
+        margin-top:0px;
+    }
+    .best-tours .tours {
+        margin-top: 42px;
+    }
+    .best-tours .tours .tourcard {
+        max-width: 118px;
+    }
+    .best-tours .tours .tourcard:nth-child(3),.best-tours .tours .tourcard:nth-child(4){
+        margin-top:35px;
+    }
+    .best-tours p:last-of-type a {
+        margin-top: 0px;
+    }
+    .best-sights.best-tours {
+        margin-top: 65px;
+    }
+    .best-sights.best-tours .tours {
+        margin-top: 21px;
+    }
+    .best-sights.best-tours p:last-of-type a{
+        margin-top: 50px;
+    }
+    .best-activities.best-tours .tours{
+        margin-top:30px;
+    }
+    footer .appform{
+        margin-top: 65px;
+    }
+    .modal-open {
+        overflow: hidden;
+        z-index: 10050;
+        position: absolute;
+        /* top: -46px; */
+    }
+    .main-menu .modal-content.list-city img {
+        left: 20px;
+    }
+    .header-listcity .spans {
+        margin-left: 80px;
+        margin-top: 30px;
+    }
+    .header-listcity h2 {
+        font-size: 24px;
+        margin-left: 55px;
+        position: relative;
+    }
+    button.close-appform {
+        top: 27px!important;
+    }
+    .modal-content.list-city button.close {
+        position: absolute!important;
+        left: 281px;
+        top:67px;
+    }
+    .modal-content.mobile-menu .logo img:first-child{
+        display: block;
+        width: 31px;
+    }
+    .main-menu .modal-content.list-city li:first-child {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .header-listcity h2 .i-adress {
+        position: absolute;
+        left: -34px;
+    }
+    .main-menu .modal-content.list-city ul {
+        -webkit-column-count: 2;
+           -moz-column-count: 2;
+                column-count: 2;
+        display: inline-block;
+        -webkit-column-width: 78px;
+           -moz-column-width: 78px;
+                column-width: 78px;
+        width: 320px;
+        padding-right: 0px;
+        padding-left: 26px;
+        -webkit-column-gap: 6px;
+           -moz-column-gap: 6px;
+                column-gap: 6px;
+    }
+    .feedback-form .modal-content .appform .selectset{
+        width:100%;
+    }
+    .feedback-form .modal-content .appform .selectset textarea{
+        width:262px;
+    }
+    .feedback-form .modal-content .appform  h4{
+        margin-left:0px;
+        padding-left: 13%;
+        padding-right: 19%;
+    }
+    .main-menu-mobile .main-menu {
+        display: inline-block;
+        -webkit-column-count: 2;
+           -moz-column-count: 2;
+                column-count: 2;
+        width: 272px;
+        margin-top: 23px;
+        -webkit-column-gap: 0px;
+           -moz-column-gap: 0px;
+                column-gap: 0px;
+    }
+    .main-menu.adaptive li:first-child button.list-city {
+            border: 1px solid #8e8d98;
+            padding-left: 11px!important;
+            margin-left: -10px;
+    }
+    .main-menu.adaptive li:not(:first-child) {
+        margin-left: 0%;
+        margin-top: 10px;
+    }
+    .main-menu.adaptive li:nth-child(5){
+        margin-top:17px;
+    }
+    .mobile-menu .contacts{
+        -webkit-box-ordinal-group: 2;
+            -ms-flex-order: 1;
+                order: 1;
+    }
+    .mobile-menu .feedback-form button {
+        width: 88.7%;
+        height: 45px;
+        border-radius: 26.5px;
+    }
+    .main-menu-mobile .modal-dialog .modal-content.mobile-menu {
+        height: 460px;
+        padding-top: 43px;
+    }
+    .main-menu-mobile .close-appform {
+        margin-left: 87%;
+        font-size: 23px;
+        position: absolute;
+        right:-6px!important;
+        top: 37px!important;
+    }
+    
+}
+@media (max-width:320px) {
+    body{
+        /* background:url(../../Qiankun15.09/template/Главная320px.png) no-repeat;   */
+    }
+    .main-menu-mobile{
+        display: block;
+    }
+    .main-slider .slider-block h1, .main-slider .slider-block p{
+        padding-right: 14px!important;
+        max-width: 599px;
+        padding-left: 20px;
+    }
+    .main-slider .slider-block {
+        padding-top: 81px;
+    }
+    header nav {
+        padding-top:9px;
+    }
+    .logo{
+        margin-left: 15px;
+    }
+    .i-menu_burger{
+        font-size: 20px;
+    }
+    .contactwithus button {
+        width: 45px;
+    }
+    .contactwithus .contacts {
+        left: 26.5%;
+    }
+    .carousel-control-prev, .carousel-control-next {
+        top: 80%!important;
+    }
+    .carousel-control-prev {
+        left: 53%!important;
+    }
+    .carousel-control-next {
+        left: 77.5%!important;
+    }
+    .main-slider .slider-block a {
+        margin-top: 21px;
+    }
+    .hot-tours{
+        width:100%;
+        max-width: 320px;
+    }
+    .hot-tours .tours .tourcard img {
+        width: 100%;
+    }    
+    .hot-tours h2 {
+        
+    }
+    .tourcard .line{
+        max-width: 216px;
+    }
+    .logotype img {
+        top: 18px;
+        left: 42%;
+    }
+    .hot-tours .tours .tourcard {
+        max-width: 197px;
+        padding-left: 0px;
+        margin:0 auto;
+    }
+    .hot-tours .tours .tourcard:nth-child(2){
+        margin-top: 36px;
+    }
+    .hot-tours .tours .tourcard:nth-child(3){
+        margin-top: 40px;
+    }
+    .hot-tours .tours .tourcard h3, .hot-tours .tours .tourcard p {
+        width: 100%;
+        padding-left: 22px;
+        padding-right: 28px;
+    }
+    .hot-tours .tours .tourcard p {
+        font-size: 10px;
+        padding-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    .hot-tours p:last-of-type a {
+        margin-top: 58px;
+        width: 100%;
+    }
+
+    .cities-list {
+        margin-top: 96px;
+    }
+    .cities-list .city {
+        height: 145px;
+    }
+    .cities-list .city:nth-child(5) p{
+        padding-left: 0px;
+        margin-top: 20px;
+    }
+    .cities-list .city:nth-child(5) p:first-of-type {
+        padding: 0 7px;
+    }
+    .best-tours p {
+        max-width: 282px;
+        margin-top: 50px;
+    }
+    .best-tours .tours{
+        max-width: 286px!important;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    }
+    .best-tours .tours .tourcard {
+        max-width: 112px;
+    }
+    .best-tours .tours .tourcard:nth-child(3),
+    .best-tours .tours .tourcard:nth-child(4){
+        margin-top: 35px;
+    }
+    .best-tours {
+
+    }
+    .best-tours p:last-of-type a {
+        margin-top: 0px;
+    }
+    .best-sights.best-tours {
+        margin-top: 20px;
+        height:auto!important;
+    }
+    .aboutQiankun.best-sights.best-tours {
+        margin-top: 50px;
+    }
+    .best-sights.best-tours p{
+        margin-top:0px;
+    }
+    .best-sights.best-tours .tours{
+        margin-top: 23px;
+    }
+    .best-sights.best-tours p:last-of-type a {
+        margin-top: 52px;
+    }
+    .best-activities {
+        margin-top: 50px;
+    }
+    .tourscatalog.best-tours.activities {
+        margin-top: 472px;
+        
+    }
+    .best-activities.best-tours p{
+        max-width: 282px;
+        margin-top: 50px;
+    }
+    footer .appform {
+        margin-top: 17px;
+    }
+    footer .appform form{
+        height: 880px;
+    }
+    .appform .selectset {
+        margin-left: 0px;
+        margin-top: -292px;
+        max-width: 283px;
+        width: 100%;
+    }
+    .forminput-set {
+        max-width: 282px;
+    } 
+    .appform form input, .appform form select{
+        margin-bottom: 33px;
+    }
+    .appform form textarea {
+        margin-top: 28px;
+        position: absolute;
+        left: 14px;
+        width: 282px;
+        height: 282px;
+    }  
+    .feedback-form .modal-content .appform .selectset textarea {
+        left:23px;
+    }
+    .forminput-set img {
+        top: 717px;
+    }
+    .forminput-set .spans {
+        position: absolute;
+        top: 706px;
+        left: 123px;
+    }
+    .appform form{
+        position: relative;
+    }
+    .appform form .buttonset{
+        position: absolute;
+        left: 17px;
+        bottom: 172px;
+    }
+    
+    .feedback-form .modal-content .appform .selectset{
+        width:100%;
+    }
+    .feedback-form .modal-content .appform .selectset textarea{
+        width:262px;
+    }
+    .feedback-form .modal-content .appform  h4{
+        margin-left: 0px;
+        padding-left: 10px;
+        padding-right: 72px;
+    }
+    .main-menu-mobile .main-menu {
+        display: inline-block;
+        -webkit-column-count: 2;
+           -moz-column-count: 2;
+                column-count: 2;
+        width: 272px;
+    }
+    .main-menu.adaptive li:first-child button {
+        padding: 0px;
+    }
+    .main-menu.adaptive li:not(:first-child) {
+        margin-left: 0%;
+    }
+    .mobile-menu .contacts{
+        -webkit-box-ordinal-group: 2;
+            -ms-flex-order: 1;
+                order: 1;
+        padding-left: 20px;
+    }
+    .mobile-menu .feedback-form button {
+        width: 88.7%;
+    }
+    .main-menu-mobile .modal-dialog .modal-content.mobile-menu {
+        height: 460px;
+    }
+    .feedback-form .modal-content .appform .forminput-set img {
+        top: 726px;
+    }
+    .feedback-form .modal-content .appform .forminput-set .spans {
+        top: 726px;
+        margin-left: 31px;
+    }
+    .feedback-form .modal-content .appform .selectset .buttonset {
+        bottom: 296px;
+    }
+    .feedback-form .modal-content .appform .selectset {
+        margin-top: -333px;
+    }
+    button.close-appform {
+        right: 0px!important;
+        top: 25px!important;
+
+    }
+    .mobile-menu .contacts {
+        margin-top: 50px;
+    }
+    .modal-content.list-city button.close {
+        top: 74px;
+    }
+    
+}
+/* Страница City */
+
+@media (max-width:1920px) {
+    .slider-cities.city.best-tours .carousel-inner .col-md-2 .tourcard:nth-child(2) {
+        display: none;
+    }
+}
+@media (max-width:1200px) {
+    .description-city {
+    max-width: 890px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 600px;
+    }
+    .abstract-title h2 {
+        max-width: 250px;
+        width: 100%;
+}
+    .links-city {
+    max-width: 300px;
+    width: 100%;
+}
+.about-cities.city {
+    max-width: 824px;
+    width: 100%;
+}
+.abstract-title p:first-of-type {
+    max-width: 245px;
+    width: 100%;
+}
+.description-photo p:nth-of-type(1) {
+    max-width: 374px;
+    width: 100%;
+}
+.city-hotel {
+    max-width: 890px;
+    margin: 0 auto;
+    width: 89%;
+}
+.links-city a:first-child img {
+    max-width: 25px;
+    width: 100%;
+}
+.links-city a:nth-child(2) img {
+    max-width: 50px;
+    width: 100%;
+}
+.links-city a:nth-child(3) img {
+    max-width: 60px;
+    width: 100%;
+}
+.links-city a:nth-child(4) img {
+    max-width: 40px;
+    width: 100%;
+}
+.abstract img {
+    max-width: 95px;
+    width: 100%;
+}
+.links-city a span {
+    width: 68px;
+}
+.links-city a:first-child {
+    max-width: 68px;
+    width: 100%;
+}
+.breadcrumb.before-slider {
+    display: none;
+}
+}
+@media (max-width:992px) {
+    .description-city {
+        max-width: 890px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 600px;
+    }
+    .city-hotel p {
+        max-width: 879px;
+        width: 100%;
+    }
+    .slider-cities.best-tours .carousel.slide .col-md-2 {
+        padding-left: 0px;
+    }
+    #ThumbnailCarousel img {
+        width: 100%;
+        max-width: 113px;
+    }
+    .carousel-item .tourcard .line {
+        max-width: 113px;
+    }
+    .carousel-item .tourcard {
+        max-width: 113px!important;
+        padding-left: 0px;
+    }
+    .slider-cities.city #ThumbnailCarousel div {
+        max-width: 615px;
+        -webkit-box-pack: start;
+            -ms-flex-pack: start;
+                justify-content: flex-start;
+        margin: 0 auto;
+        height: 347px;
+     }
+    #ThumbnailCarousel.carousel {
+        padding-top: 18px; 
+    }
+    .slider-cities.city.best-tours #ThumbnailCarousel .carousel-control-prev {
+        left: 41%!important;
+        top: 99%!important;
+    }
+    .slider-cities.city.best-tours #ThumbnailCarousel .carousel-control-next {
+        top: 99%!important;
+    }
+    .button-feedback {
+        width: 31%;
+        height: 47px;
+        position: absolute;
+        top: 200px;
+        opacity: 0;
+        left: 19px;
+    }
+}
+@media (max-width:768px) {
+    .description-city {
+        margin-top: 484px;
+        max-width: 610px;
+    }
+    .description-photo{
+        margin-bottom:0px;
+    }
+    .description-photo img:first-child {
+        max-width: 260px;
+        height: 334px;
+        width: 43%;
+    }
+    .description-photo .abstract img {
+        max-width: 92px;
+        height: 92px;
+        width: 100%;
+    }
+    .description-photo .abstract h2 {
+        font-size: 24px;
+    }
+    .description-photo p:nth-of-type(1) {
+        width: 100%;
+        max-width: 300px;
+        margin-top: 33px;
+        margin-bottom: 14px;
+    }
+    .abstract {
+        margin-left: 44px;
+    }
+    body {
+        font-size: 12px;
+    }
+   .abstract .links-city span {
+    width: 75px;
+    }
+    .links-city a:nth-child(2) span {
+        width: 21px;
+    }
+    .links-city a:nth-child(3) img {
+        max-width: 46px;
+        width: 100%;
+        height: 36px;
+    }
+    .links-city a span {
+        font-size: 16px;
+        height: 42px;
+
+    }
+    .links-city a:first-child {
+        margin-top: -12px;
+        padding-top: 10px;
+    }
+    .links-city a:nth-child(3) span {
+        width: 34px;
+    }
+    .links-city a:nth-child(2) {
+        margin-top: 9px;
+        margin-left: 12%;
+        margin-right: 39px;
+    }
+    .links-city a:nth-child(3) {
+        margin-top: 3px;
+        margin-right: 4%;
+    }
+    .links-city a:nth-child(4) {
+        margin-top: -2px;
+        margin-left: 7%;
+    }
+    .links-city a:first-child span {
+        margin-top: -10px;
+    }
+    .links-city a:first-child img {
+        height: 41px;
+        margin-top: 9px;
+    }
+    .about-cities.city {
+        max-width: 610px;
+        margin-top: -17px;
+    }
+    .about-cities.city p:nth-of-type(3) {
+        margin-top: 25px;
+    }
+    .city-hotel h2 {
+        font-size: 36px;
+        margin-top: 65px
+    }
+    .city-hotel p {
+        max-width: 609px;
+        width: 100%;
+        margin-top: 21px;
+        padding-left: 40px;
+    }
+#ThumbnailCarousel img {
+        width: 100%;
+        max-width: 113px;
+}
+.carousel-item .tourcard .line {
+    max-width: 113px;
+}
+.carousel-item .tourcard {
+    max-width: 113px!important;
+    padding-left: 0px;
+
+}
+#ThumbnailCarousel div {
+    max-width: 615px;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    margin: 0 auto;
+}
+#ThumbnailCarousel.carousel {
+    padding-top: 18px;
+    }
+    .slider-cities.city.best-tours  #ThumbnailCarousel .carousel-control-prev {
+        left: 41%!important;
+        top: 78%!important;
+    }
+    .slider-cities.city.best-tours  #ThumbnailCarousel .carousel-control-next {
+        top: 78%!important;
+    }
+    .button-feedback {
+        width: 31%;
+        height: 47px;
+        position: absolute;
+        top: 180px;
+        opacity: 0;
+        left: 19px;
+    }
+    .best-sights.best-tours.city {
+        margin-bottom: 66px;
+        margin-top: 68px;
+    }
+    .best-activities.best-tours.city {
+        margin-top: 0px;
+    }
+    .abstract .links-city span {
+        max-width: 65px;
+        width: 100%;
+    }
+    footer .appform.city {
+        margin-top: -6px;
+    }
+}
+@media (max-width:576px) {
+    .about-cities.city {
+        margin-top: 36px;
+    }
+    .description-photo p:nth-of-type(1) {
+        margin-top: 9px;
+    }
+    .links-city a:nth-child(2) {
+    margin-top: 9px;
+    margin-left: 27px;
+    margin-right: 27px;
+    }
+    .slider-cities.city #ThumbnailCarousel div {
+        height: 347px;
+    }
+}
+@media (max-width:414px) {  
+    .description-city {
+        margin-top: 481px;
+        max-width: 320px;
+    }
+    .description-photo {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    }
+    .carousel-item .tourcard p:first-of-type {
+        width: 100%;
+    }
+    .description-photo img:nth-child(1) {
+        max-width: 280px;
+        width: 100%;
+        height: 271px;
+        margin: 0 auto;
+    }
+    .description-photo .abstract img {
+        max-width: 92px;
+        height: 92px;
+    }
+    .city-hotel h2 {
+        margin-top: 58px;
+    }
+    .abstract {
+        margin-left: 19px;
+        margin-top: 46px;
+    }
+    .description-photo p:nth-of-type(1) {
+        margin-top: 134px;
+        max-width: 287px;
+    }
+    .city.best-tours {
+        margin-top: 21px;
+    }
+    .about-cities.city {
+        max-width: 320px;
+        width: 90%;
+        margin: 0 auto;
+        margin-top: 317px;
+    }
+    .abstract-title-text p:first-of-type {
+        margin-top: 41px;
+
+    }
+    .links-city {
+        margin-top: 7px;
+        margin-left: -7px;
+    }
+    .city-hotel p {
+        max-width: 316px;
+        margin: 0 auto;
+        width: 100%;
+        margin-right: 48px;
+    }
+    .slider-cities.city.best-tours #ThumbnailCarousel .carousel-control-prev {
+        left: 30%!important;
+        top: 47%!important;
+    }
+    .slider-cities.city.best-tours #ThumbnailCarousel .carousel-control-next {
+        top: 47%!important;
+    }
+    .slider-cities.city #ThumbnailCarousel div {
+        max-width: 282px;
+        height: 570px;
+    }
+    .carousel-item .tourcard{
+        height: 237px!important;
+    }
+    .slider-cities.city.best-tours #ThumbnailCarousel .col-md-2 .tourcard.two {
+        display: block;
+        margin-top: 93px;
+    }
+    footer .appform.city {
+        margin-top: 78px;
+    }
+    .best-activities.best-tours.city {
+        margin-top: 48px;
+    }
+    .about-cities.city {
+    margin-top: 308px;
+    }
+}
+@media (max-width:320px) {
+    .links-city {
+        margin-top: 22px;
+        margin-left: 0;
+    }
+    .slider-cities.city.best-tours {
+        margin-top: 11px;
+    }
+    .slider-cities.city.best-tours #ThumbnailCarousel .carousel-control-prev {
+        left: 28%!important;
+        top: 49%!important;
+    }
+    .slider-cities.city #ThumbnailCarousel div {
+        height: 564px;
+        margin-top: 2px;
+    }
+    .slider-cities.city.best-tours #ThumbnailCarousel .carousel-control-next {
+        top: 49%!important;
+    }
+    .city.best-tours{
+        height: 593px!important;
+    }
+    .city-hotel p:first-of-type {
+        padding-left: 0px;
+        margin-top: 21px;
+
+    }
+    .city.best-tours {
+        margin-top: 173px;
+    }
+    .best-activities.best-tours.city {
+        margin-top: 353px;
+    }
+    footer .appform.city {
+        margin-top: 337px;
+    }
+    .best-activities.best-tours.city .tours {
+        margin-top: 40px;
+    }
+}
+
+/* Страница City */
+/* Страница каталог экскурсий */
+@media (max-width:768px){
+    .tourscatalog.best-tours {
+    margin-top: 475px;
+    height: 1600px;
+    height: auto;
+    height: auto!important;
+    }
+    .tourscatalog.best-tours h2+p {
+        margin-bottom: 50px;
+    }
+    .tourscatalog.best-tours .tours {
+        margin-top: 30px;
+    }
+    .pagination {
+        max-width: 604px;
+        margin: 0 auto;
+        margin-top: 54px;
+    }
+    .pagination .page-item:nth-last-child(2) {
+        right: 83px;
+    }
+    .pagination .page-item:last-child {
+        right: -2px;
+    }
+    .tourscatalog.footer .appform{
+        margin-top: 69px;
+    }
+}
+@media (max-width:414px) {
+    .pagination {
+        max-width: 220px;
+        margin: 0 auto;
+        margin-top: 34px;
+    }
+    .pagination .page-item:nth-last-child(2) {
+        right: 115px;
+        top:68px;
+    }
+    .pagination .page-item:last-child {
+        right: 40px;
+        top:68px;
+    }
+    .tourscatalog.footer .appform {
+        margin-top: 117px;
+    }
+}
+@media (max-width:320px) {
+    .tourscatalog.best-tours {
+        margin-top: 590px;
+        height: 1600px;
+        height: auto;
+        height: auto!important;
+    }
+    .tourscatalog.best-tours.info{
+        margin-top:472px;
+    }
+    .tourscatalog.footer .appform {
+        margin-top: 105px;
+    }
+    
+}
+/* Страница каталог экскурсий */
+/* каталог статей */
+@media (max-width:768px){
+.articlecatalog-main{
+    height: 480px;
+}
+.articlecatalog.hot-tours {
+    margin-top: 382px;
+    height: auto;
+}
+.main-slider {
+    top: 0px;
+    z-index: -1;
+    height: 480px;
+}
+.articlecatalog.best-sights.best-tours{
+    height:auto;
+    margin-top: 80px;
+}
+.articlecatalog{
+    height:auto!important;
+}
+.articlecatalog.footer .appform {
+    margin-top: 63px;
+}
+.articlecatalog.cities-list{
+    margin-top:118px;
+}
+.articlecatalog.hot-tours .tours:first-child {
+    margin-top: 54px;
+}
+}
+@media (max-width:414px){
+    .articlecatalog.hot-tours .tours {
+    margin-top: 50px;
+}
+.articlecatalog.best-sights.best-tours{
+    margin-top: 50px;
+}
+}
+/* каталог статей */
+/* Страница Sight */
+@media(max-width:1200px) {
+    .description-city.sight, .description-city.tour, .description-city.hotel {
+        margin-top: 620px;
+    } 
+}
+@media(max-width:992px) {
+    .city.sight h1, .city.sight.aboutQiankun h1 {
+        padding-left: 55px;
+        padding-right: 153px;
+    }
+    .city.sight p {
+        padding-right: 153px;
+        padding-left: 55px;
+    }
+}
+@media(max-width:768px) {
+    .city.sight {
+        height: 480px!important;
+    }
+    .description-city.sight, .description-city.tour, .description-city.hotel {
+        margin-top: 501px;
+    }
+    .about-cities {
+        margin-top: 0px;
+    }
+    .header-n-info {
+        margin-bottom: 46px;
+    }
+    .header-n-info .spans {
+        padding-top: 0px;
+    }
+    .header-n-info-contacts img {
+        margin-top: -18px;
+    }
+    .header-n-info .spans::before {
+        top: 18px;
+        left: -22px;
+    }
+    .about-cities.sight p:last-of-type button {
+        width: 283px;
+    }
+    .city-hotel.sights h2 {
+        margin-top: 72px;
+    }
+    .sight-footer .appform {
+        margin-top: 66px;
+    }
+    .about-cities.sight h2 {
+        font-size: 36px;
+    }
+    .city.sight h1 {
+        font-size: 36px!important;
+        padding-left: 83px!important;
+        padding-top: 114px!important;
+    }
+    .city.sight .city.sight p {
+        font-size: 12px;
+    }
+    .city.sight p {
+        padding-right: 142px;
+        padding-left: 78px;
+    }
+    .no-slider .city.sight p{
+        padding-right: 268px;
+        padding-left: 78px;
+        font-size: 12px;
+        margin-top: 43px;
+    }
+    .header-n-info-contacts .spans span:first-child {
+        font-weight: normal;
+    }
+}
+@media(max-width:576px) {
+    .city.sight h1, .city.sight.aboutQiankun h1 {
+        padding-right: 60px!important;
+    }
+    .city.sight p {
+        padding-right: 23px!important;
+    }
+    .header-n-info {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        margin-bottom: 40px;
+    }
+    .about-cities.sight h2 {
+        text-align: center;
+        margin-top: -34px;
+        margin-right: 30px;
+    }
+    .about-cities {
+        max-width: 284px;
+        margin-left: 147px;
+    }
+    .header-n-info-contacts.sight {
+        margin-top: 94px;
+    }
+    .about-cities.sight p:last-of-type button {
+        margin-top: 0px;
+    }
+    .modal-dialog {
+        margin: 0px;
+        border-style:none;
+    }
+}
+@media(max-width:414px) {
+    .about-cities {
+        margin-left: 19px;
+    }
+    .city.sight h1, .city.sight.aboutQiankun h1 {
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        padding-top: 85px!important;
+    }
+    .city.sight p {
+        font-size: 12px;
+        padding-left: 20px;
+        margin-top: 39px;
+    }
+    .slider-cities.city #ThumbnailCarousel div {
+        height: 571px;;
+    }
+    .sight-footer {
+        margin-top: 82px;
+    }
+    .no-slider .city.sight.sight p {
+        padding-right: 5px;
+        padding-left: 18px;
+
+    }
+    .description-city.sight .header-n-info-contacts.sight {
+        margin-top: 50px;
+    }
+    .description-city .header-n-info-contacts .spans {
+        margin-top: -15px;
+    }
+    .header-n-info .spans::before {
+        top: 31px;
+        left: -30px;
+    }
+}
+/* Страница Sight */
+/* AboutQiankun */
+@media(max-width:768px) {
+.city.sight.tour.aboutQiankun{
+    background:url(../images/bg768aboutQiankun.jpg)!important;
+}
+.city.sight.tour.aboutQiankun h1{
+    padding-left: 55px!important;
+    padding-right: 174px!important;
+}
+.aboutQiankun.info {
+    margin: 0 auto;
+    margin-top: 479px;
+    width: 100%;
+    max-width: 597px;
+}
+.aboutQiankun.info p{
+    font-size:12px;
+}
+.aboutQiankun.info p:first-child {
+    color: #363446;
+    font-size: 16px;
+    font-weight: 400;
+    width: 100%;
+    max-width: 597px;
+    margin: 0 auto;
+}
+.aboutQiankun.info p:nth-of-type(2) {
+    margin-top: 50px;
+}
+.aboutQiankun.imagecards {
+    margin-top: 50px;
+}
+.aboutQiankun.imagecards a img {
+    width: 151px;
+}
+.aboutQiankun.imagecards .row a:hover::after {
+    content: "";
+    height: 118px;
+}
+.aboutQiankun.info p:nth-of-type(5) {
+    margin-top: 50px;
+}
+.hot-tours.aboutQiankun {
+    margin-top: 56px;
+    padding-top: 0px;
+    height:auto;
+    margin-bottom: 0px;
+}
+.aboutQiankun.appform {
+    margin-top: 80px;
+}
+.aboutQiankun.imagecards .modal-body img {
+    height: 452px;
+}
+.modal-content.aboutQiankun #image-gallery-image{
+    height:452px;
+    padding:0px;
+}
+.modal-content.aboutQiankun .modal-body{
+    padding: 0px;
+}
+.aboutQiankun.imagecards .modal-body .btn-secondary.float-left {
+    left: 7%;
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+}
+.aboutQiankun.imagecards .modal-body .btn-secondary.float-right {
+    right: 7%;
+}
+.aboutQiankun.imagecards .modal-body .btn-secondary.float-left, .aboutQiankun.imagecards .modal-body .btn-secondary.float-right {
+    top: 43%;
+}
+.aboutQiankun.modal-content .close {
+    right: 9%;
+}
+}
+@media(max-width:414px) {
+    .aboutQiankun.info {
+        margin: 0 auto;
+        margin-top: 479px;
+        width: 100%;
+        max-width: 280px;
+    }
+    .aboutQiankun.imagecards a {
+        margin-left: 0px;
+    }
+    .city.sight.tour.aboutQiankun h1 {
+        padding-left: 23px!important;
+        padding-right: 69px!important;
+    }
+    .aboutQiankun.imagecards a img {
+        width: 140px;
+    }
+    .aboutQiankun.imagecards {
+        
+        max-width: 282px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 37px;
+    }
+    .hot-tours.aboutQiankun .hot-tours p:last-of-type a {
+        margin-top: 50px;
+    }    
+    .hot-tours.aboutQiankun {
+        height: auto!important;
+    }
+    .aboutQiankun.cities-list {
+        margin-top: 80px;
+    }
+    .aboutQiankun.best-tours p {
+        max-width: 282px;
+        margin-top: 10px;
+    }
+    .aboutQiankun.best-tours p:last-of-type {
+        max-width: 282px;
+        margin-top: 10px;
+    }
+    .aboutQiankun.best-tours p:last-of-type a {
+        max-width: 282px;
+        margin-top: 0px;
+    }
+    .city.sight.tour.aboutQiankun h1 {
+        padding-left: 23px!important;
+        padding-right: 7px!important;
+    }
+    .modal-content.aboutQiankun #image-gallery-image {
+        height: 180px;
+    }
+    .aboutQiankun.imagecards .modal-body .btn-secondary.float-left, .aboutQiankun.imagecards .modal-body .btn-secondary.float-right {
+        height: 20px;
+        width: 20px;
+    }
+    .aboutQiankun.imagecards .modal-body .btn-secondary.float-left .i-arrow, .aboutQiankun.imagecards .modal-body .btn-secondary.float-right .i-arrow {
+        font-size: 8px;
+        left: 10px;
+        position: absolute;
+        top: 7px;
+    }
+    .aboutQiankun.imagecards .modal-body .btn-secondary.float-right:hover i::before, .aboutQiankun.imagecards .modal-body .btn-secondary.float-left:hover i::before {
+        color: #1d1c31;
+        top:-1px;
+        position: absolute;
+    }
+    .aboutQiankun.imagecards .row a:hover::after {
+        content: "";
+        height: 108px;
+    }
+    footer .copyright{
+        max-width: 282px;
+        text-align:center;
+    }
+    .aboutQiankun.modal-content .close .i-close {
+        font-size: 8px;
+    }
+    .cities-list .city:hover a::after {
+        content: "";
+        position: absolute;
+        opacity: 0.5;
+        background: red;
+        height: 145px;
+        width: 93px;
+        z-index: 2;
+        top: -145px;
+    }
+}
+@media(max-width:320px) {
+    
+}
+
+/* AboutQiankun */
+
+/* Qiankunarticle */
+@media(max-width:768px) {
+.aboutQiankun.info.Qiankunarticle {
+    margin-top: 476px;
+}
+.Qiankunarticle.city.sight{
+    background: url(../images/Qiankunarticle768.jpg)!important;
+}
+.Qiankunarticle.city.sight p {
+    padding-right: 267px;
+    padding-left: 78px;
+    font-size: 12px;
+}
+.aboutQiankun.info.Qiankunarticle h2 {
+    font-size: 36px;
+    margin-bottom:50px;
+}
+
+}
+@media(max-width:414px){
+    .Qiankunarticle.city.sight p {
+        padding-left:20px;
+        padding-right: 19px;
+    }
+    
+}
+/* Qiankunarticle */
+
+/* Страница Hotel */
+
+@media(max-width:768px) {
+    .excursion-header.hotel{
+        margin-top: -24px;
+        max-width: 310px;
+        width: 100%;
+    }
+    .excursion-header.hotel p {
+    margin-top: 76px;
+    font-size: 17px
+    }
+    .header-n-info.hotel {
+        margin-bottom: 25px;
+    }
+}
+@media(max-width:576px) {
+    .about-cities.sight.hotel h2 {
+        text-align: left;
+        margin-top: -9px;
+        margin-right: 30px;
+    }
+    .excursion-header.hotel p {
+        margin-top: 28px;
+    }
+    .header-n-info-contacts.hotel {
+        margin-top: 24px;
+        margin-bottom: 15px;
+    }
+}
+@media(max-width:414px) {
+    .about-cities.sight.hotel h2 {
+        margin-right: 0px;
+        margin-bottom: 52px;
+    }
+    .header-n-info-contacts.hotel {
+        margin-bottom: 15px;
+    }
+    .excursion-header.hotel h2 {
+        text-align: start;
+    } 
+    .description-city.hotel {
+        margin-top: 528px;
+    }
+
+}
+
+/* Страница Hotel */
+
+/* Страница Tour */
+
+@media(max-width:768px) {
+    .description-city.tour {
+        margin-top:476px;
+    }
+    .header-n-info-contacts.tour {
+        margin-top: 25px;
+    }
+    .excursion-header.tour a::before {
+        left: 3px;
+        top: 3px;
+    }
+    .excursion-header.tour a span {
+        margin-left: 10px;
+    }
+}
+@media(max-width:576px) {
+    .description-city.tour {
+        margin-top: 500px;
+    }
+    .description-city.tour .about-cities p:nth-of-type(3) {
+        margin-top: 21px;
+    }
+    .excursion-header.tour a span {
+        margin-left: 8px;
+    }
+    .excursion-header.tour p {
+        margin-top: 12px;
+    }
+    .excursion-header.tour a::before {
+        left: 1px;
+    }
+    .excursion-header.tour a span {
+        padding-bottom: 7px;
+    }
+    .header-n-info-contacts.tour {
+        margin-top: 43px;
+    }
+    #ThumbnailCarousel.carousel {
+        padding-top: 28px;
+    }
+}
+@media(max-width:320px) {
+    .description-city.tour {
+        margin-top: 506px;
+    }
+    .header-n-info.tour {
+        margin-bottom: 45px;
+    }
+    #ThumbnailCarousel.carousel {
+        padding-top: 21px;
+    }
+
+    .about-cities.sight p:last-of-type button {
+        margin-top: 34px;
+    }
+}
+
+/* Страница Tour */
+
